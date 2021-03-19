@@ -1,4 +1,4 @@
-person_age = 15
-person_name = Mike
+person_name = "nike"
+person age = "21"
 
-print("there once was a person named " + person_name + ", ")
+print("there was a kid named " + person_name + ", ")
