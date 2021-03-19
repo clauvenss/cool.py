@@ -1,0 +1,4 @@
+person_age = 15
+person_name = Mike
+
+print("there once was a person named " + person_name + ", ")
